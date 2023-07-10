@@ -1,0 +1,5 @@
+<ObjectTemplate>
+  <Name>A Speed Potion</Name>
+	<ClientId>113</ClientId>
+	<SharedStateEntry name="StackCount" type="double" value="3"/>
+</ObjectTemplate>

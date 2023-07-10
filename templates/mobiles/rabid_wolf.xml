@@ -1,0 +1,10 @@
+<ObjectTemplate>
+	<ClientId>73</ClientId>
+	<Name>Rabid Wolf</Name>
+	<ScaleModifier>1.25</ScaleModifier>
+	<SharedStateEntry name="BodyOffset" type="double" value="1"/>
+	<MobileComponent />
+	<ScriptEngineComponent>
+		<LuaModule Name="ai.brain_monster" />
+	</ScriptEngineComponent>
+</ObjectTemplate>

@@ -1,0 +1,9 @@
+<ObjectTemplate>
+  <Name>Leather Mitts</Name>
+	<ClientId>106</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+	<ObjectVariableComponent>			
+		<StringVariable Name="ArmorType">Light</StringVariable>
+		<DoubleVariable Name="MaxDurability">30</DoubleVariable>
+	</ObjectVariableComponent>
+</ObjectTemplate>

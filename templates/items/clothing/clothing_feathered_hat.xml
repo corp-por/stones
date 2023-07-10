@@ -1,0 +1,7 @@
+<ObjectTemplate>
+  <Name>Feathered Hat</Name>
+	<ClientId>171</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+	<ObjectVariableComponent>			
+	</ObjectVariableComponent>
+</ObjectTemplate>

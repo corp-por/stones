@@ -1,0 +1,45 @@
+<ObjectTemplate>
+	<ClientId>1</ClientId>
+	<Name>Karl</Name>
+	<Tag>BossMob</Tag>
+	<SharedStateEntry name="Title" type="string" value="Villain"/>
+	<ScaleModifier>1.2</ScaleModifier>
+	<SharedStateEntry name="BodyOffset" type="double" value=".75"/>
+	<MobileComponent />
+	<ScriptEngineComponent>
+		<LuaModule Name="ai.brain_monster">
+			<Initializer>
+				{ 
+				DNA = 
+					{
+						"Head_Male_02",
+
+						"HeadCoverings_No_Hair_06",
+
+						"HeadCoverings_No_FacialHair_03",
+
+						{"Torso_Male_14", "Torso_Male_13"},
+						{"Hips_Male_10", "Hips_Male_13"},
+						"LegLeft_Male_02",
+						"LegRight_Male_02",
+						"ArmLowerRight_Male_03",
+						"ArmUpperRight_Male_20",
+						"ArmLowerLeft_Male_03",
+						"ArmUpperLeft_Male_20",
+						"HandRight_Male_04",
+						"HandLeft_Male_04",
+						"ShoulderAttachLeft_16",
+						"Color_Metal_Dark=f55a42",
+						"Color_Primary=f55a42",
+						"Color_Secondary=f55a42",
+						{"Color_Hair=A0522D", "Color_Hair=D2B48C", "Color_Hair=000000", "Color_Hair=C0C0C0", "Color_Hair=FFFFE0", "Color_Hair=F5DEB3", "Color_Hair=FAF0E6", "Color_Hair=FAFAD2", "color_Hair=696969"}
+					},
+				Equipment = 
+					{
+						RightHand = {"weapon_dagger"},				
+					},
+				}
+			</Initializer>
+		</LuaModule>
+	</ScriptEngineComponent>
+</ObjectTemplate>

@@ -1,0 +1,371 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldTemplateObjects xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group Name="CORE">
+		<DynamicObject>
+			<Id>0</Id>
+			<ObjectCreationParams>instance_controller 0 0 0 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:20">
+		<DynamicObject>
+			<Id>1</Id>
+			<ObjectCreationParams>grey_wolf -33.125 9.999 653.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:21">
+		<DynamicObject>
+			<Id>2</Id>
+			<ObjectCreationParams>brown_bear -26.875 9.999 671.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>3</Id>
+			<ObjectCreationParams>brown_bear -45.625 9.999 679.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:22">
+		<DynamicObject>
+			<Id>4</Id>
+			<ObjectCreationParams>grey_wolf -35.625 10 694.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:5">
+		<DynamicObject>
+			<Id>5</Id>
+			<ObjectCreationParams>mangy_wolf -23.125 9.999 173.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>6</Id>
+			<ObjectCreationParams>ragged_bear -39.375 9.999 168.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:6">
+		<DynamicObject>
+			<Id>7</Id>
+			<ObjectCreationParams>mangy_wolf -39.375 9.999 181.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:7">
+		<DynamicObject>
+			<Id>8</Id>
+			<ObjectCreationParams>mangy_wolf -36.875 9.999 225.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>9</Id>
+			<ObjectCreationParams>mangy_wolf -31.875 9.999 211.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>10</Id>
+			<ObjectCreationParams>mangy_wolf -16.875 9.999 210.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>11</Id>
+			<ObjectCreationParams>ragged_bear -20.625 9.999 238.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-1:8">
+		<DynamicObject>
+			<Id>12</Id>
+			<ObjectCreationParams>ragged_bear -41.875 9.999 245.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:-2">
+		<DynamicObject>
+			<Id>13</Id>
+			<ObjectCreationParams>cow -79.375 9.999 -71.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:10">
+		<DynamicObject>
+			<Id>14</Id>
+			<ObjectCreationParams>brown_bear -70.625 9.999 315.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:13">
+		<DynamicObject>
+			<Id>15</Id>
+			<ObjectCreationParams>grey_wolf -74.375 9.999 408.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:14">
+		<DynamicObject>
+			<Id>16</Id>
+			<ObjectCreationParams>brown_bear -58.125 9.999 436.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>17</Id>
+			<ObjectCreationParams>grey_wolf -64.375 9.999 459.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:15">
+		<DynamicObject>
+			<Id>18</Id>
+			<ObjectCreationParams>grey_wolf -66.875 9.999 490.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:16">
+		<DynamicObject>
+			<Id>19</Id>
+			<ObjectCreationParams>brown_bear -55.625 9.999 510.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:6">
+		<DynamicObject>
+			<Id>20</Id>
+			<ObjectCreationParams>mangy_wolf -53.125 9.999 186.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>21</Id>
+			<ObjectCreationParams>mangy_wolf -69.375 9.999 195.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:7">
+		<DynamicObject>
+			<Id>22</Id>
+			<ObjectCreationParams>skeleton -74.375 10.01 231.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-2:8">
+		<DynamicObject>
+			<Id>23</Id>
+			<ObjectCreationParams>skeleton -63.125 10.01 240.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>24</Id>
+			<ObjectCreationParams>skeleton -70.625 10.01 260.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>25</Id>
+			<ObjectCreationParams>skeleton -56.875 10.01 270.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:-2">
+		<DynamicObject>
+			<Id>26</Id>
+			<ObjectCreationParams>cow -90.625 9.999 -69.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>27</Id>
+			<ObjectCreationParams>cow -85.625 9.999 -63.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:10">
+		<DynamicObject>
+			<Id>28</Id>
+			<ObjectCreationParams>brown_bear -94.375 10 316.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:11">
+		<DynamicObject>
+			<Id>29</Id>
+			<ObjectCreationParams>brown_bear -80.625 9.999 340.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>30</Id>
+			<ObjectCreationParams>brown_bear -94.375 9.999 363.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>31</Id>
+			<ObjectCreationParams>grey_wolf -95.625 9.999 340.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:12">
+		<DynamicObject>
+			<Id>32</Id>
+			<ObjectCreationParams>brown_bear -94.375 9.999 389.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:13">
+		<DynamicObject>
+			<Id>33</Id>
+			<ObjectCreationParams>brown_bear -110.625 9.999 424.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>34</Id>
+			<ObjectCreationParams>grey_wolf -100.625 9.999 408.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>35</Id>
+			<ObjectCreationParams>grey_wolf -86.875 9.999 425.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:14">
+		<DynamicObject>
+			<Id>36</Id>
+			<ObjectCreationParams>brown_bear -96.875 9.999 451.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:15">
+		<DynamicObject>
+			<Id>37</Id>
+			<ObjectCreationParams>brown_bear -85.625 9.999 494.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>38</Id>
+			<ObjectCreationParams>grey_wolf -95.625 9.999 474.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:6">
+		<DynamicObject>
+			<Id>39</Id>
+			<ObjectCreationParams>ragged_bear -85.625 10 191.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:7">
+		<DynamicObject>
+			<Id>40</Id>
+			<ObjectCreationParams>skeleton -85.625 10 238.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:8">
+		<DynamicObject>
+			<Id>41</Id>
+			<ObjectCreationParams>skeleton -85.625 10.01 254.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-3:9">
+		<DynamicObject>
+			<Id>42</Id>
+			<ObjectCreationParams>skeleton -80.625 9.999 273.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:10">
+		<DynamicObject>
+			<Id>43</Id>
+			<ObjectCreationParams>brown_bear -113.125 9.999 335.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>44</Id>
+			<ObjectCreationParams>grey_wolf -134.375 9.999 324.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:11">
+		<DynamicObject>
+			<Id>45</Id>
+			<ObjectCreationParams>brown_bear -128.125 9.999 359.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:12">
+		<DynamicObject>
+			<Id>46</Id>
+			<ObjectCreationParams>brown_bear -121.875 10 395.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>47</Id>
+			<ObjectCreationParams>grey_wolf -113.125 9.999 371.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:13">
+		<DynamicObject>
+			<Id>48</Id>
+			<ObjectCreationParams>grey_wolf -130.625 9.999 416.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:14">
+		<DynamicObject>
+			<Id>49</Id>
+			<ObjectCreationParams>brown_bear -136.875 9.999 454.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>50</Id>
+			<ObjectCreationParams>grey_wolf -118.125 9.999 461.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:15">
+		<DynamicObject>
+			<Id>51</Id>
+			<ObjectCreationParams>brown_bear -114.375 9.999 484.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>52</Id>
+			<ObjectCreationParams>grey_wolf -141.875 9.999 486.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:16">
+		<DynamicObject>
+			<Id>53</Id>
+			<ObjectCreationParams>brown_bear -123.125 9.999 513.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="-4:9">
+		<DynamicObject>
+			<Id>54</Id>
+			<ObjectCreationParams>grey_wolf -120.625 9.999 301.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="0:0">
+		<DynamicObject>
+			<Id>55</Id>
+			<ObjectCreationParams>npc_banker -9.375 10 -1.875 0 90 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="0:1">
+		<DynamicObject>
+			<Id>56</Id>
+			<ObjectCreationParams>npc_vendor_weapon 13.125 10 38.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="0:21">
+		<DynamicObject>
+			<Id>57</Id>
+			<ObjectCreationParams>grey_wolf -13.125 9.999 679.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="0:5">
+		<DynamicObject>
+			<Id>58</Id>
+			<ObjectCreationParams>npc_vendor_armor -13.125 10 158.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="0:6">
+		<DynamicObject>
+			<Id>59</Id>
+			<ObjectCreationParams>mangy_wolf -8.125 9.999 196.875 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+		<DynamicObject>
+			<Id>60</Id>
+			<ObjectCreationParams>mangy_wolf 4.375 9.999 189.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="1:-1">
+		<DynamicObject>
+			<Id>61</Id>
+			<ObjectCreationParams>cat 29.375 9.999 -40.625 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="1:1">
+		<DynamicObject>
+			<Id>62</Id>
+			<ObjectCreationParams>cat 31.875 9.999 33.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="2:-3">
+		<DynamicObject>
+			<Id>63</Id>
+			<ObjectCreationParams>cat 59.375 10.01 -88.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="2:2">
+		<DynamicObject>
+			<Id>64</Id>
+			<ObjectCreationParams>new_player_spawn 66.875 9.999 64.375 0 180 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="2:3">
+		<DynamicObject>
+			<Id>65</Id>
+			<ObjectCreationParams>cat 70.625 9.999 103.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="2:5">
+		<DynamicObject>
+			<Id>66</Id>
+			<ObjectCreationParams>npc_vendor_scroll 70.625 13 158.125 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+	<Group Name="2:6">
+		<DynamicObject>
+			<Id>67</Id>
+			<ObjectCreationParams>cat 51.875 9.999 184.375 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+</WorldTemplateObjects>

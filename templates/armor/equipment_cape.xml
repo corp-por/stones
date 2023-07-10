@@ -1,0 +1,7 @@
+<ObjectTemplate>
+  <Name>Cape</Name>
+	<ClientId>140</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+	<ObjectVariableComponent>			
+	</ObjectVariableComponent>
+</ObjectTemplate>

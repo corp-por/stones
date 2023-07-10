@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<WorldTemplateObjects xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+	<Group Name="CORE">
+		<DynamicObject>
+			<Id>0</Id>
+			<ObjectCreationParams>instance_controller 0 0 0 0 0 0 1 1 1</ObjectCreationParams>
+		</DynamicObject>
+	</Group>
+</WorldTemplateObjects>

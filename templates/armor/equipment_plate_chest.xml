@@ -1,0 +1,5 @@
+<ObjectTemplate>
+  <Name>Plate Chest</Name>
+	<ClientId>75</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+</ObjectTemplate>

@@ -1,0 +1,9 @@
+<ObjectTemplate>
+  <Name>Half-Plate Chest</Name>
+	<ClientId>178</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+	<ObjectVariableComponent>			
+		<StringVariable Name="ArmorType">Heavy</StringVariable>
+		<DoubleVariable Name="MaxDurability">30</DoubleVariable>
+	</ObjectVariableComponent>
+</ObjectTemplate>

@@ -1,0 +1,5 @@
+<ObjectTemplate>
+  <Name>[00ff00]Scroll of Wound[-]</Name>
+	<ClientId>259</ClientId>
+	<SharedStateEntry name="StackCount" type="double" value="20"/>
+</ObjectTemplate>

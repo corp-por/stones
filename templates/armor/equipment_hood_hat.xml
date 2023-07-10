@@ -1,0 +1,5 @@
+<ObjectTemplate>
+  <Name>Hood</Name>
+	<ClientId>170</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+</ObjectTemplate>

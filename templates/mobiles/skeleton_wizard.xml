@@ -1,0 +1,10 @@
+<ObjectTemplate>
+	<ClientId>250</ClientId>
+	<Name>Skeleton Mage</Name>
+	<ScaleModifier>1</ScaleModifier>
+	<SharedStateEntry name="BodyOffset" type="double" value=".5"/>
+	<MobileComponent />
+	<ScriptEngineComponent>
+		<LuaModule Name="ai.brain_monster_advanced" />
+	</ScriptEngineComponent>
+</ObjectTemplate>

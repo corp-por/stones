@@ -1,0 +1,41 @@
+<ObjectTemplate>
+	<ClientId>1</ClientId>
+	<Name>Scarlet Bandit</Name>
+	<ScaleModifier>1</ScaleModifier>
+	<SharedStateEntry name="BodyOffset" type="double" value=".33"/>
+	<MobileComponent />
+	<ScriptEngineComponent>
+		<LuaModule Name="ai.brain_monster">
+			<Initializer>
+				{
+				DNA = 
+					{
+						{"Head_Male_01","Head_Male_02","Head_Male_03","Head_Male_04","Head_Male_05"},
+
+						{ "Hair_04", "Hair_05", "Hair_08", "Hair_14", "Hair_20", "Hair_21", "Hair_34", "Hair_1" },
+
+						"HeadCoverings_No_FacialHair_03",
+						{"Torso_Male_14", "Torso_Male_13"},
+						{"Hips_Male_10", "Hips_Male_13"},
+						"LegLeft_Male_02",
+						"LegRight_Male_02",
+						"ArmLowerRight_Male_00",
+						"ArmUpperRight_Male_00",
+						"ArmLowerLeft_Male_00",
+						"ArmUpperLeft_Male_00",
+						"HandRight_Male_04",
+						"HandLeft_Male_04",
+						"Color_Metal_Dark=F55A42",
+						"Color_Primary=F55A42",
+						"Color_Secondary=F55A42",
+						{"Color_Hair=A0522D", "Color_Hair=D2B48C", "Color_Hair=000000", "Color_Hair=C0C0C0", "Color_Hair=FFFFE0", "Color_Hair=F5DEB3", "Color_Hair=FAF0E6", "Color_Hair=FAFAD2", "Color_Hair=696969"}
+					},
+				Equipment = 
+					{
+						RightHand = {"weapon_dagger"},		
+					},
+				}
+			</Initializer>
+		</LuaModule>
+	</ScriptEngineComponent>
+</ObjectTemplate>

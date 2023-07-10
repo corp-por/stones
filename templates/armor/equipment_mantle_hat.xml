@@ -1,0 +1,5 @@
+<ObjectTemplate>
+  <Name>Mantle</Name>
+	<ClientId>282</ClientId>
+	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
+</ObjectTemplate>
