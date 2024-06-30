@@ -1,8 +1,0 @@
-<ObjectTemplate>
-  <Name>[00ff00]Large Bag[-]</Name>
-	<ClientId>289</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-	<ObjectVariableComponent>			
-		<StringVariable Name="ResourceType">LargeBag</StringVariable>	
-	</ObjectVariableComponent>
-</ObjectTemplate>

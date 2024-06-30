@@ -1,9 +1,0 @@
-<ObjectTemplate>
-  <Name>Hide Boots</Name>
-	<ClientId>99</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-	<ObjectVariableComponent>			
-		<StringVariable Name="ArmorType">Light</StringVariable>
-		<DoubleVariable Name="MaxDurability">30</DoubleVariable>
-	</ObjectVariableComponent>
-</ObjectTemplate>

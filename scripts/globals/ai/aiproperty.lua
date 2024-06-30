@@ -2,9 +2,9 @@
 -- Copyright © 2023 Corp Por LTD
 require 'core:globals.ai.aiproperty'
 
-function AIProperty.GetLevel(template)
-    if ( template ~= nil and AIProperties[template] ~= nil and AIProperties[template].Level ~= nil ) then
-        return AIProperties[template].Level
+function AIProperty.GetLevel(templateid)
+    if ( templateid ~= nil and Template[templateid] ~= nil and Template[templateid].Level ~= nil ) then
+        return Template[templateid].Level
     end
     return 1.0
 end

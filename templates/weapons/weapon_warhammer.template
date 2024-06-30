@@ -1,0 +1,11 @@
+{
+	Name = "Warhammer",
+	ClientId = 231,
+	
+    Speed = 0.33,
+    Damage = {20,30},
+    Range = 2.0,
+    DamageType = "Bashing",
+    TwoHanded = true,
+    ImpactSound = "warhammer"
+}

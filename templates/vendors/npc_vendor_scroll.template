@@ -1,0 +1,12 @@
+{
+	Name = "Morten Bonner",
+	ClientId = 187,
+	Attach = "ai.brain_vendor_npc",
+	SharedProperties = {
+		BodyOffset = 0.5,
+		Title = "Scroll Merchant"
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+}

@@ -1,0 +1,12 @@
+{
+	Name = "Miney McSmith",
+	ClientId = 305,
+	Attach = "ai.brain_vendor_npc",
+	SharedProperties = {
+		BodyOffset = 0.5,
+		Title = "Weaponsmith"
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+}

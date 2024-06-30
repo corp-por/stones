@@ -1,0 +1,31 @@
+{
+	Name = "Ragged Bear",
+	ClientId = 62,
+	ScaleModifier = 0.8,
+	Attach = "ai.brain_monster",
+	SharedProperties = {
+		BodyOffset = 1,
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+
+	ObjVars = {
+		MobileTeamType = "Predator"
+	},
+    Weapon = {
+        Speed = 0.4,
+        Damage = {1,3},
+        Range = 1.2,
+        DamageType = "Piercing"
+    },
+    Stats = {
+        Health = 50,
+    },
+    Abilities = {
+
+    },
+    Loot = {
+
+    }
+}

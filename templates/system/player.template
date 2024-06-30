@@ -1,0 +1,16 @@
+{
+	TemplateName = "Male",
+	ClientId = 1,
+	Attach = "player",
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed,
+		MobileType = "Player"
+	},
+	Stats = {
+		Health = 100,
+	},
+	Equipment = {
+		Chest = "clothing_shirt",
+		Legs = "clothing_pants"
+	}
+}

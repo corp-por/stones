@@ -1,0 +1,10 @@
+{
+	Name = "Great Axe",
+	ClientId = 123,
+	
+    Speed = 0.33,
+    Damage = {20,30},
+    Range = 2.0,
+    DamageType = "Slashing",
+    ImpactSound = "axe",
+}

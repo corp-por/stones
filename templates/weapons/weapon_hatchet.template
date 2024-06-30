@@ -1,0 +1,10 @@
+{
+	Name = "Hatchet",
+	ClientId = 28,
+	
+    Speed = 0.4,
+    Damage = {10,15},
+    Range = 2.0,
+    DamageType = "Slashing",
+    ImpactSound = "axe",
+}

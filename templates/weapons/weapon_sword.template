@@ -1,0 +1,10 @@
+{
+	Name = "Sword",
+	ClientId = 7,
+	
+    Speed = 0.5,
+    Damage = {10,15},
+    Range = 2.0,
+    DamageType = "Slashing",
+    ImpactSound = "sword",
+}

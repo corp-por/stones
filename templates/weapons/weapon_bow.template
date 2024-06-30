@@ -1,0 +1,11 @@
+{
+	Name = "Bow",
+	ClientId = 40,
+	
+    Speed = 0.33,
+    Damage = {20,30},
+    Range = 10.0,
+    DamageType = "Piercing",
+    TwoHanded = true,
+    ImpactSound = "bow"
+}

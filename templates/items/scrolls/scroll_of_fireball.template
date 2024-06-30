@@ -1,0 +1,8 @@
+{
+	Name = "[00ff00]Scroll of Fireball[-]",
+	ClientId = 259,
+	
+    Ability = "Fireball",
+    Consume = true,
+    Stackable = true,
+}

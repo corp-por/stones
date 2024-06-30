@@ -1,0 +1,30 @@
+{
+	Name = "Cat",
+	ClientId = 63,
+	ScaleModifier = 1.5,
+	Attach = "ai.brain_prey",
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+	SharedProperties = {
+		BodyOffset = 0.5
+	},
+
+	
+    Level = 1,
+	ObjVars = {
+		MobileTeamType = "Animal"
+	},
+    Weapon = {
+        Speed = 4,
+        Damage = {1,2},
+        Range = 1.35,
+        DamageType = "Slashing"
+    },
+    Stats = {
+        Health = 5,
+    },
+    Loot = {
+
+    }
+}

@@ -1,0 +1,15 @@
+{
+	Name = "Sledgehammer",
+	ClientId = 231,
+  SharedProperties = {
+    Variation = "SM_Wep_Hammer_03",
+    CustomIcon = "SM_Wep_Hammer_03"
+  },
+  
+  Speed = 0.33,
+  Damage = {20,30},
+  Range = 2.0,
+  DamageType = "Bashing",
+  TwoHanded = true,
+  ImpactSound = "warhammer"
+}

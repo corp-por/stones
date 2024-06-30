@@ -1,0 +1,68 @@
+{
+	Name = "Karl",
+	ClientId = 1,
+	Tag = "BossMob",
+	SharedProperties = {
+		Title = "Villain",
+		BodyOffset = 0.75
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+	Attach = "ai.brain_monster",
+
+	Equipment = {
+		RightHand = {"weapon_dagger"}
+	},
+
+	DNA = {
+		"Head_Male_02",
+
+		"HeadCoverings_No_Hair_06",
+
+		"HeadCoverings_No_FacialHair_03",
+
+		{"Torso_Male_14", "Torso_Male_13"},
+		{"Hips_Male_10", "Hips_Male_13"},
+		"LegLeft_Male_02",
+		"LegRight_Male_02",
+		"ArmLowerRight_Male_03",
+		"ArmUpperRight_Male_20",
+		"ArmLowerLeft_Male_03",
+		"ArmUpperLeft_Male_20",
+		"HandRight_Male_04",
+		"HandLeft_Male_04",
+		"ShoulderAttachLeft_16",
+		"Color_Metal_Dark=f55a42",
+		"Color_Primary=f55a42",
+		"Color_Secondary=f55a42",
+		{
+			"Color_Hair=A0522D",
+			"Color_Hair=D2B48C",
+			"Color_Hair=000000",
+			"Color_Hair=C0C0C0",
+			"Color_Hair=FFFFE0",
+			"Color_Hair=F5DEB3",
+			"Color_Hair=FAF0E6",
+			"Color_Hair=FAFAD2",
+			"color_Hair=696969"
+		}
+	},
+
+	Level = 20,
+	ObjVars = {
+		MobileTeamType = "Bandit"
+	},
+	Weapon = {
+        Speed = 0.4,
+        Damage = {3,7},
+        Range = 1.25,
+        DamageType = "Bashing"
+    },
+    Stats = {
+        Health = 40,
+    },
+    Loot = {
+        {"gold", {-5,5}},
+    },
+}

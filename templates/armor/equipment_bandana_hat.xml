@@ -1,5 +1,0 @@
-<ObjectTemplate>
-  <Name>Bandana</Name>
-	<ClientId>285</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-</ObjectTemplate>

@@ -1,5 +1,0 @@
-<ObjectTemplate>
-  <Name>[00ff00]Silver Ring[-]</Name>
-	<ClientId>292</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-</ObjectTemplate>

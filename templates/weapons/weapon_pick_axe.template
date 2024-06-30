@@ -1,0 +1,10 @@
+{
+	Name = "Pick Axe",
+	ClientId = 122,
+	
+    Speed = 0.5,
+    Damage = {20,30},
+    Range = 2.0,
+    DamageType = "Bashing",
+    ImpactSound = "warhammer"
+}

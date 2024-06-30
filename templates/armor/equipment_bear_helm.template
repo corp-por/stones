@@ -1,0 +1,8 @@
+{
+	Name = "Bear Helm",
+	ClientId = 96,
+
+	-- Properties
+	ArmorType = "Light",
+	MaxDurability = 30
+}

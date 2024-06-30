@@ -1,7 +1,0 @@
-<ObjectTemplate>
-  <Name>Coat</Name>
-	<ClientId>177</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-	<ObjectVariableComponent>			
-	</ObjectVariableComponent>
-</ObjectTemplate>

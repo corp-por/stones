@@ -1,5 +1,0 @@
-<ObjectTemplate>
-  <Name>Fedora</Name>
-	<ClientId>283</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-</ObjectTemplate>

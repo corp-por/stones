@@ -1,0 +1,29 @@
+{
+	Name = "Cow",
+	ClientId = 64,
+	Attach = "ai.brain_prey",
+	SharedProperties = {
+		BodyOffset = 2
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+
+	
+    Level = 1,
+	ObjVars = {
+		MobileTeamType = "Animal"
+	},
+    Weapon = {
+        Speed = 4,
+        Damage = {1,2},
+        Range = 1.35,
+        DamageType = "Slashing"
+    },
+    Stats = {
+        Health = 5,
+    },
+    Loot = {
+
+    }
+}

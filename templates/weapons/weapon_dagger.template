@@ -1,0 +1,10 @@
+{
+	Name = "Dagger",
+	ClientId = 210,
+	
+    Speed = 0.83,
+    Damage = {5,10},
+    Range = 2.0,
+    DamageType = "Piercing",
+    ImpactSound = "dagger",
+}

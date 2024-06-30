@@ -1,0 +1,13 @@
+
+
+-- this allows an easy way to define/override core defaults for weapons when there's nothing equipped.
+--- This template is never meant to be created, and only serves as a place for data to be pulled from for unarmed weapon stats
+{
+	Name = "UNUSED",
+	ClientId = 0,
+
+    Speed = 1,
+    Damage = {2,5},
+    Range = 0.625,
+    DamageType = "Bashing"
+}

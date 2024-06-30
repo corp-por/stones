@@ -1,0 +1,33 @@
+{
+	Name = "Lich",
+	ClientId = 130,
+	Attach = "ai.brain_monster_advanced",
+	SharedProperties = {
+		BodyOffset = 0.5,
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed
+	},
+
+	Level = 80,
+	ObjVars = {
+		MobileTeamType = "Undead"
+	},
+	Weapon = {
+        Speed = 0.4,
+        Damage = {24,26},
+        Range = 1.25,
+        DamageType = "Bashing"
+    },
+    Stats = {
+        Health = 120,
+    },
+    Abilities = {
+        "Fireball",
+        "Energybolt"
+    },
+    Loot = {
+        {"gold", {50,70}},
+        "scroll_of_energybolt"
+    }
+}

@@ -1,0 +1,8 @@
+{
+	Name = "[00ff00]Scroll of Energy Bolt[-]",
+	ClientId = 259,
+	
+    Ability = "Energybolt",
+    Consume = true,
+    Stackable = true,
+}

@@ -1,0 +1,10 @@
+{
+	Name = "Offhand Sword",
+	ClientId = 5,
+	
+	-- items that go in the LeftHand slot are considered off hands and by default act as modifiers
+    Speed = 0.1, -- a modifier of swing speed
+    Damage = {0.75, 1.5}, -- a modifer of damage
+    DamageType = "Slashing",
+    ImpactSound = "sword",
+}

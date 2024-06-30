@@ -1,5 +1,0 @@
-<ObjectTemplate>
-  <Name>Turban</Name>
-	<ClientId>284</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-</ObjectTemplate>

@@ -1,7 +1,0 @@
-<ObjectTemplate>
-  <Name>Jerkin</Name>
-	<ClientId>181</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-	<ObjectVariableComponent>			
-	</ObjectVariableComponent>
-</ObjectTemplate>

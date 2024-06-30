@@ -1,0 +1,11 @@
+{
+	Name = "Spear",
+	ClientId = 108,
+	
+    Speed = 0.6,
+    Damage = {20,30},
+    Range = 2.0,
+    DamageType = "Piercing",
+    TwoHanded = true,
+    ImpactSound = "spear"
+}

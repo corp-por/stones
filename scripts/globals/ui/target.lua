@@ -9,7 +9,7 @@ function BuildTargetElement(playerObj,targetObj)
     if dynamicWindow == nil then return nil end
 
     if targetObj ~= nil and not IsPlayerCharacter(targetObj) then
-        local level = AIProperty.GetLevel(Object.Template(targetObj))
+        local level = AIProperty.GetLevel(Object.TemplateId(targetObj))
         if ( level > 1 ) then
 		    dynamicWindow:AddLabel(154,36,tostring(level),180,100,48,"right",false,true,"Bonfire_Dynamic")
         end

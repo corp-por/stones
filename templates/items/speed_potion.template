@@ -1,0 +1,14 @@
+{
+	Name = "A Speed Potion",
+	ClientId = 113,
+	SharedProperties = {
+		StackCount = 3
+	},
+	
+    Stackable = true,
+    Consume = true,
+    Effect = "SpeedModify",
+    EffectArgs = {
+        Modifier = 0.25
+    }
+}

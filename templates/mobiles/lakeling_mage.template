@@ -1,0 +1,32 @@
+{
+	Name = "Lakeling Mystic",
+	ClientId = 286,
+	ScaleModifier = 0.7,
+	Attach = "ai.brain_monster_advanced",
+	SharedProperties = {
+		BodyOffset = 1,
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed * 0.8
+	},
+	
+    Level = 80,
+	ObjVars = {
+		MobileTeamType = "Lakeling"
+	},
+    Weapon = {
+        Speed = 1.0,
+        Damage = {1,3},
+        Range = 1.2,
+        DamageType = "Piercing"
+    },
+    Stats = {
+        Health = 50,
+    },
+    Abilities = {
+
+    },
+    Loot = {
+        {"gold", {25,35}},
+    }
+}

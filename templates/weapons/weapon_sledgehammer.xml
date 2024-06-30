@@ -1,6 +1,0 @@
-<ObjectTemplate>
-  <Name>Sledgehammer</Name>
-	<ClientId>231</ClientId>
-	<SharedStateEntry name="Variation" type="string" value="SM_Wep_Hammer_03"/>
-    <SharedStateEntry name="CustomIcon" type="string" value="SM_Wep_Hammer_03"/>
-</ObjectTemplate>

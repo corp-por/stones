@@ -1,5 +1,0 @@
-<ObjectTemplate>
-  <Name>Wizard Hat</Name>
-	<ClientId>131</ClientId>
-	<SharedStateEntry name="DenyPickup" type="bool" value="False"/>
-</ObjectTemplate>

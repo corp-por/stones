@@ -1,0 +1,29 @@
+{
+	Name = "Skeleton",
+	ClientId = 236,
+	Attach = "ai.brain_monster",
+	SharedProperties = {
+		BodyOffset = 0.5,
+	},
+	Mobile = {
+		MovementSpeed = ServerSettings.DefaultMovementSpeed * 0.5
+	},
+
+	Level = 20,
+	ObjVars = {
+		MobileTeamType = "Undead"
+	},
+	Weapon = {
+        Speed = 0.4,
+        Damage = {3,7},
+        Range = 1.25,
+        DamageType = "Bashing"
+    },
+    Stats = {
+        Health = 40,
+    },
+    Loot = {
+        {"gold", {-5,5}},
+        "scroll_of_fireball"
+    },
+}

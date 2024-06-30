@@ -1,0 +1,6 @@
+{
+  Name = "[00ff00]Squire's Shield[-]",
+  ClientId = 133,
+
+  Shield = true,
+}
