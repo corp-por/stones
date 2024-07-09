@@ -23,9 +23,6 @@
     Stats = {
         Health = 50,
     },
-    Abilities = {
-
-    },
     Loot = {
         {"gold", {25,35}},
     }

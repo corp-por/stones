@@ -1,6 +1,10 @@
 {
 	Name = "[00ff00]Scroll of Wound[-]",
 	ClientId = 259,
+    
+    SharedProperties = {
+        Resource = "wound_scroll",
+    },
 	
     Ability = "Wound",
     Consume = true,

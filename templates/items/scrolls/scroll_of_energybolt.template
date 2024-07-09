@@ -1,6 +1,10 @@
 {
 	Name = "[00ff00]Scroll of Energy Bolt[-]",
 	ClientId = 259,
+    
+    SharedProperties = {
+        Resource = "eb_scroll",
+    },
 	
     Ability = "Energybolt",
     Consume = true,

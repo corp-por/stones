@@ -4,6 +4,10 @@
 	SharedProperties = {
 		StackCount = 3
 	},
+    
+    SharedProperties = {
+        Resource = "speed_pot",
+    },
 	
     Stackable = true,
     Consume = true,

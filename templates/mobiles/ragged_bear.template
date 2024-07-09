@@ -22,9 +22,6 @@
     Stats = {
         Health = 50,
     },
-    Abilities = {
-
-    },
     Loot = {
 
     }

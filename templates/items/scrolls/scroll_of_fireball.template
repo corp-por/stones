@@ -1,6 +1,10 @@
 {
 	Name = "[00ff00]Scroll of Fireball[-]",
 	ClientId = 259,
+    
+    SharedProperties = {
+        Resource = "fb_scroll",
+    },
 	
     Ability = "Fireball",
     Consume = true,
