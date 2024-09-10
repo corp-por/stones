@@ -10,6 +10,8 @@ Include.functions.SetSkill = function(id, level)
         return
     end
 
+    level = tonumber(level)
+
     Skill[id].Set(this, level)
 
     local display = Skill[id].Display(this)

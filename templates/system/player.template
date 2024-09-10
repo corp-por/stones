@@ -1,6 +1,7 @@
 {
 	TemplateName = "Male",
 	ClientId = 1,
+	Color = "EFD2C5",
 	Attach = "player",
 	Mobile = {
 		MovementSpeed = ServerSettings.DefaultMovementSpeed,

@@ -7,7 +7,8 @@
 		BodyOffset = 1,
 	},
 	Mobile = {
-		MovementSpeed = ServerSettings.DefaultMovementSpeed * 0.8
+		MovementSpeed = ServerSettings.DefaultMovementSpeed * 0.8,
+        Swim = true
 	},
 	
     Level = 80,
